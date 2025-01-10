@@ -25,5 +25,5 @@
 # chai = "he said, \"masala chai is awesome\" "
 # chai = '''he said, "masala chai is awesome" '''
 # chai = r"Avin\nchai"
-chai = r"c:\\user\\pwd\\"
-print(chai)
+# chai = r"c:\\user\\pwd\\"
+# print(chai)
