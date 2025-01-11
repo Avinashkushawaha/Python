@@ -1,4 +1,4 @@
-age  = float(input("Give me a score value: "))
+age  = float(input("Enter your age : "))
 
 if age < 13:
     print("child")
