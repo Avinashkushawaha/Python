@@ -8,7 +8,10 @@
 # result = x + y
 # print(result)
 
-apple = '''he said,
-"I want to eat
-an apple'''
-print(apple)
+# apple = '''he said,
+# "I want to eat
+# an apple'''
+# print(apple)
+
+nm = "harry"
+print(nm[-4:-2])
