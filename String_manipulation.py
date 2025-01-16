@@ -20,4 +20,6 @@ blogheading = "Introduction"
 # print(blogheading.isprintable())
 # print(blogheading.isspace())
 # print(blogheading.istitle())
-print(blogheading.startswith("n"))
+# print(blogheading.startswith("n"))
+# print(blogheading.swapcase())
+print(blogheading.title())
