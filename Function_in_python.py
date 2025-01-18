@@ -9,7 +9,7 @@ def isGreater(a, b):
         print("Second number is greater")    
 a = 9
 b = 8
-isGreater(a, b)
+isGreater(a, b) 
 # gmean = (a*b)/(a+b)
 # print(gmean)
 # calculateGmean(a, b)
