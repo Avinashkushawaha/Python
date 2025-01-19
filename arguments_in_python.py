@@ -13,3 +13,9 @@
 
 # average(5, 6, 7, 1)
 
+def name(*name):
+    print("Hello,", name["fname"],
+   name["mname"], name["lname"])
+    
+name(mname = "Buchanan", lname = "Barnes",
+     fname = "james")    
