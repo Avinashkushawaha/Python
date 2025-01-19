@@ -5,4 +5,8 @@ list.append(7)
 # print(list.reverse())
 # print(list.index(1))
 print(list.count(1))
-print
+
+m = ['ram', 'sham', 'naam']
+k = list + m
+print(k)
+
