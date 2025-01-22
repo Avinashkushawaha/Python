@@ -1,0 +1,1 @@
+# find foactorial of a number in python
