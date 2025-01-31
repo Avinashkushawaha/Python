@@ -7,5 +7,7 @@ class Person:
 
 a = Person()
 # a.name = 'shubham'
-# a.occupation = 'avi'
-print(a.name, a.occupation)   
+a.occupation = 'Accountant'
+print(a.name, a.occupation)
+
+a.info()
