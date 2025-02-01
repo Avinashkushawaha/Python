@@ -1,8 +1,8 @@
 def greet(fx):
-   def mfx():
-    print("Hello world")
+   def mfx(*args, **kwargs):
+    print("Good Morning")
     fx()
-    print("Thanks for using this")
+    print("Thanks for using this function")
    return mfx 
 
 
