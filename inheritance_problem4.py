@@ -1,4 +1,4 @@
-# Write a class 'Complex' to represent complex numbers numbers, along with overloaded opertor which calculates the sum and the dot(.)product of them.
+# Write a class 'Complex' to represent complex numbers, along with overloaded opertor '+' and '*' which adds and multilpies them.
 
 class Complex:
     def __init__(self, r, i):
