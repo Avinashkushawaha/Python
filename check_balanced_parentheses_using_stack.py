@@ -9,4 +9,4 @@ def is_balanced(expr):
                 return False
     return not stack
 
-print
+print(is_balanced("{[()]}"))
