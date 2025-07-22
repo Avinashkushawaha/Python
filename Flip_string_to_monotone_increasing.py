@@ -6,3 +6,4 @@ def minFlipsMonoIncr(s):
         else:
             flips = min(flips + 1, one_count)
     return flips
+                                                                                        
